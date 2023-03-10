@@ -1,1 +1,2 @@
-# 732857315_2.github.io
+# 732857315.github.io
+把riscv.vip跳转到risc.ink
